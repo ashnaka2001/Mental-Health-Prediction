@@ -1,5 +1,5 @@
 # Mental-Health-Prediction
-AI-Powered Mental Wellness Assessment
+# AI-Powered Mental Wellness Assessment
 
 An interactive web application designed to promote mental health awareness and support emotional self-assessment using Machine Learning and NLP.
 
