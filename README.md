@@ -6,7 +6,7 @@ An interactive web application designed to promote mental health awareness and s
 # 🚀 Project Overview
 This project leverages natural language processing and machine learning to create a user-friendly, AI-powered mental wellness assistant. Through guided questions and mood tracking, the app predicts an individual's emotional state and provides personalized advice.
 
-#💡 Key Features
+# 💡 Key Features
 
 🗣 Guided Self-Assessment: Users answer reflective questions and adjust mood sliders to express how they feel.
 
